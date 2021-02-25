@@ -1,0 +1,23 @@
+{
+  "name": "TestOne",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nest1k/TestOne.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nest1k/TestOne/issues"
+  },
+  "homepage": "https://github.com/Nest1k/TestOne#readme",
+  "dependencies": {
+    "sass": "^1.32.8"
+  }
+}
